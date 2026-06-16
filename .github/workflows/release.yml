@@ -16,6 +16,6 @@ on:
 jobs:
   releasetag:
     name: Tag Release
-    uses: StanfordBDHG/.github/.github/workflows/action-release-tag.yml@v2
+    uses: SchmiedmayerLab/.github/.github/workflows/action-release-tag.yml@v0.2
     permissions:
       contents: write
