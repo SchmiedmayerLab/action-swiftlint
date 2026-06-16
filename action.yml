@@ -7,7 +7,7 @@
 #
 
 
-name: 'SwiftLint Tool'
+name: 'SwiftLint GitHub Action'
 description: 'A tool to enforce Swift style and conventions using the official image.'
 author: 'Andreas Bauer <mail@andi-bauer.com>'
 branding:
